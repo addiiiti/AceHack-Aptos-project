@@ -25,8 +25,8 @@
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/Karan-Palan/Web3-Muj-Slcm.git
-cd Web3-Muj-Slcm
+https://github.com/addiiiti/AceHack-Aptos-project
+cd AceHack-Aptos-project
 ```
 #### next app
 ```bash
