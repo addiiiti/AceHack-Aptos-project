@@ -1,4 +1,4 @@
-# AceHack 4.0: Decentralized Identity & Reputation System
+# Arcadia: Decentralized Identity & Reputation System
 # WEB-3 SLCM
 
 ## Overview -  Web3 Domain Name Service (DNS) for MUJ Students
